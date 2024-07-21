@@ -1,0 +1,5 @@
+discord.py[voice]
+pytube
+opencv-python
+numpy
+requests

@@ -1,0 +1,2 @@
+# StrawberryJelly Bot
+Discord bot for server with my friends. Can play music, make funny interactions, show your daily look. Have some utility functions including status functions for base platform. As main platform Raspberry Pi 4B is used.
